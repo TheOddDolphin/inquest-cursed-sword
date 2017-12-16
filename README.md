@@ -1,2 +1,2 @@
 # The Inquest - Cursed Sword
-This is a personal open-world RPG Twine project.
+This is the repository for a personal passion project - an open-world text RPG, written using [Twine](twinery.org).
